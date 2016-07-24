@@ -33,7 +33,13 @@ Bring the magic to your app with APIs!
   }
 
   [black] {
-    background-color: black;
+    color: #555;
+    background-color: #ccc;
+    padding: 5px;
+  }
+
+  [black] a {
+    color: #555;
   }
 </style>
 
