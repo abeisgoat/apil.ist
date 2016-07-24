@@ -31,6 +31,10 @@ Bring the magic to your app with APIs!
   [underline] {
     text-decoration: underline;
   }
+
+  [black] {
+    background-color: black;
+  }
 </style>
 
 {{#each data.links}}
@@ -39,4 +43,5 @@ Bring the magic to your app with APIs!
   </div>
 {{/each}}
 
-[PLEASE CONTRIBUTE TO THIS OPEN-SOURCE SITE](https://github.com/abehaskins/apil.ist)
+<br /><br />
+<span black underline>[PLEASE CONTRIBUTE TO THIS OPEN-SOURCE SITE](https://github.com/abehaskins/apil.ist)</span>
