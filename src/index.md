@@ -38,3 +38,5 @@ Bring the magic to your app with APIs!
     [{{this.title}}]({{this.link}}) <span darker-grey underline>({{this.site}})</span> <span lighter-grey>added by <a href="https://twitter.com/{{this.added_by}}">{{this.added_by}}</a></span>
   </div>
 {{/each}}
+
+[PLEASE CONTRIBUTE TO THIS OPEN-SOURCE SITE](https://github.com/abehaskins/apil.ist)
