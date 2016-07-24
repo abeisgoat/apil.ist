@@ -1,0 +1,10 @@
+{
+  "links": [
+    {
+      "title": "An amazing title",
+      "description": "An amazing desc",
+      "author": "An amazing author",
+      "link": "an amazing link"
+    }
+  ]
+}
