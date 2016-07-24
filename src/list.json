@@ -1,10 +1,32 @@
 {
   "links": [
     {
-      "title": "An amazing title",
-      "description": "An amazing desc",
-      "author": "An amazing author",
-      "link": "an amazing link"
+      "title": "Resize, compress, flip and adjust any image or GIF.",
+      "site": "imgix.com",
+      "description": "You can easily pull any image from the web or S3 and do a million changes by just making a URL.",
+      "link": "https://imgix.com",
+      "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Send/receive text messages, receive phone calls, and route calls!",
+      "site": "twilio.com",
+      "description": "Send a text from a server, verify a phone number, have a robot answer the phone.",
+      "link": "https://twilio.com",
+      "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Get a image / gif for any word or phrase instantly!",
+      "site": "jpg.cool",
+      "description": "Try jpg.cool/fish.gif or jpg.cool/american.pie.jpg",
+      "link": "https://jpg.cool",
+      "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Detect what is in an image, how many people, how they're feeling or if it's NSFW",
+      "site": "cloud.google.com",
+      "description": "",
+      "link": "https://cloud.google.com/vision/",
+      "added_by": "@abeisgreat"
     }
   ]
 }

@@ -3,12 +3,38 @@ title: APIL.IST - THE LIST OF AMAZING, MAGICAL APIS
 layout: layout.html
 load_json: list.json
 ---
-# APIL.IST - THE LIST OF AMAZING MAGICAL APIS
+# <b>API L.IST</b> - THE LIST OF AMAZING MAGICAL APIS
 
-Every question you've wanted, down to the dollar.
+Bring the magic to your app with APIs!
 
-### Links
+<style>
+  [darker-grey] a {
+    color: #888;
+  }
+
+  [darker-grey] {
+    color: #888;
+  }
+
+  [lighter-grey] a {
+    color: #ccc;
+  }
+
+  [lighter-grey] {
+    color: #ccc;
+  }
+
+  [link] {
+    margin-bottom: 10px;
+  }
+
+  [underline] {
+    text-decoration: underline;
+  }
+</style>
 
 {{#each data.links}}
-  [{{this.title}}]({{this.link}})
+  <div link>
+    [{{this.title}}]({{this.link}}) <span darker-grey underline>({{this.site}})</span> <span lighter-grey>added by <a href="https://twitter.com/{{this.added_by}}">{{this.added_by}}</a></span>
+  </div>
 {{/each}}
