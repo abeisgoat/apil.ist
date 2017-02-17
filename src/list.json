@@ -22,10 +22,17 @@
       "added_by": "@abeisgreat"
     },
     {
-      "title": "Turn a domain name into a logo or an email address into various personal details",
+      "title": "Get a company's logo from a domain name",
       "site": "clearbit.com",
       "description": "",
-      "link": "https://clearbit.com/",
+      "link": "https://clearbit.com/logo",
+      "added_by": "@abeisgreat"
+    },
+     {
+      "title": "Turn an email address into various personal details",
+      "site": "clearbit.com",
+      "description": "",
+      "link": "https://clearbit.com/enrichment",
       "added_by": "@abeisgreat"
     }
   ]
