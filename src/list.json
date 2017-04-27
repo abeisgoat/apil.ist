@@ -34,6 +34,13 @@
       "description": "",
       "link": "https://clearbit.com/enrichment",
       "added_by": "@abeisgreat"
+    },
+    {
+     "title": "Search for a movie and get cover art, info, and ratings",
+      "site": "omdbapi.com",
+      "description": "",
+      "link": "http://www.omdbapi.com/",
+      "added_by": "@abeisgreat"
     }
   ]
 }
