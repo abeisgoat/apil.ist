@@ -55,6 +55,13 @@
       "description": "",
       "link": "https://github.com/letsvalidate/api",
       "added_by": "@hbakhtiyor"
-    }
+    },
+    {
+      "title": "Get info on any Pokémon",
+      "site": "pokeapi.co",
+      "description": "",
+      "link": "http://pokeapi.co/",
+      "added_by": "@abeisgreat"
+    },
   ]
 }
