@@ -36,11 +36,25 @@
       "added_by": "@abeisgreat"
     },
     {
-     "title": "Search for a movie and get cover art, info, and ratings",
+      "title": "Search for a movie and get cover art, info, and ratings",
       "site": "omdbapi.com",
       "description": "",
       "link": "http://www.omdbapi.com/",
       "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Detect technologies powering a website",
+      "site": "pro.letsvalidate.com",
+      "description": "",
+      "link": "https://github.com/letsvalidate/api",
+      "added_by": "@hbakhtiyor"
+    },
+    {
+      "title": "Generate a thumbnail preview of a website",
+      "site": "pro.letsvalidate.com",
+      "description": "",
+      "link": "https://github.com/letsvalidate/api",
+      "added_by": "@hbakhtiyor"
     }
   ]
 }
