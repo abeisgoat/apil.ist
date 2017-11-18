@@ -43,20 +43,6 @@
       "added_by": "@abeisgreat"
     },
     {
-      "title": "Detect technologies powering a website",
-      "site": "pro.letsvalidate.com",
-      "description": "",
-      "link": "https://github.com/letsvalidate/api",
-      "added_by": "@hbakhtiyor"
-    },
-    {
-      "title": "Generate a thumbnail preview of a website",
-      "site": "pro.letsvalidate.com",
-      "description": "",
-      "link": "https://github.com/letsvalidate/api",
-      "added_by": "@hbakhtiyor"
-    },
-    {
       "title": "Get info on any Pokémon",
       "site": "pokeapi.co",
       "description": "",
@@ -76,6 +62,13 @@
       "description": "",
       "link": "https://www.algolia.com/",
       "added_by": "@livinpixel"
+    },
+    {
+      "title": "Get structured data about any English word",
+      "site": "wordsapi.com",
+      "description": "",
+      "link": "https://www.wordsapi.com/",
+      "added_by": "@abeisgreat"
     }
   ]
 }
