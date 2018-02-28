@@ -61,13 +61,20 @@
       "site": "algolia.com",
       "description": "",
       "link": "https://www.algolia.com/",
-      "added_by": "@livinpixel"
+      "added_by": "@abeisgreat"
     },
     {
       "title": "Get structured data about any English word",
       "site": "wordsapi.com",
       "description": "",
       "link": "https://www.wordsapi.com/",
+      "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Send emails",
+      "site": "sendgrid.com",
+      "description": "",
+      "link": "https://www.sendgrid.com/",
       "added_by": "@abeisgreat"
     }
   ]
