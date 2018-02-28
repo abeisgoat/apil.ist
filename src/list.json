@@ -76,6 +76,13 @@
       "description": "",
       "link": "https://www.sendgrid.com/",
       "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Food and Recipe Database",
+      "site": "spoonacular.com",
+      "description": "Get everything from nutrition information to recipes, generated meal plans to wine pairings, and much, much more."
+      "link": "https://spoonacular.com/",
+      "added_by": "@petermilesdev"
     }
   ]
 }
