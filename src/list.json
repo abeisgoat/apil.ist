@@ -76,6 +76,13 @@
       "description": "",
       "link": "https://www.sendgrid.com/",
       "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Access worldwide news with code",
+      "site": "newsapi.org",
+      "description": "",
+      "link": "https://newsapi.org/",
+      "added_by": "@bzmp125"
     }
   ]
 }
