@@ -76,6 +76,13 @@
       "description": "",
       "link": "https://www.sendgrid.com/",
       "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Images of Google Maps locations",
+      "site": "developers.google.com",
+      "description": "",
+      "link": "https://developers.google.com/maps/documentation/maps-static/intro",
+      "added_by": "@abeisgreat"
     }
   ]
 }
