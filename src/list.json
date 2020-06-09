@@ -31,7 +31,7 @@
      {
       "title": "Turn an email address into various personal details",
       "site": "clearbit.com",
-      "description": "",
+      "description": "A nutrition analysis, ",
       "link": "https://clearbit.com/enrichment",
       "added_by": "@abeisgreat"
     },
@@ -83,6 +83,14 @@
       "description": "",
       "link": "https://developers.google.com/maps/documentation/maps-static/intro",
       "added_by": "@abeisgreat"
+    },
+    {
+      "title": "A food recipe search API",
+      "site": "edamam.com/",
+      "description": "",
+      "link": "https://developer.edamam.com/edamam-docs-recipe-api",
+      "added_by": "@fmugaviri"
     }
+	
   ]
 }
