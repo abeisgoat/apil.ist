@@ -83,6 +83,14 @@
       "description": "",
       "link": "https://developers.google.com/maps/documentation/maps-static/intro",
       "added_by": "@abeisgreat"
+    },
+    {
+      "title": "A food recipe search API",
+      "site": "edamam.com/",
+      "description": "",
+      "link": "https://developer.edamam.com/edamam-docs-recipe-api",
+      "added_by": "@fmugaviri"
     }
+	
   ]
 }
