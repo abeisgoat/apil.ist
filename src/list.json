@@ -83,6 +83,13 @@
       "description": "",
       "link": "https://developers.google.com/maps/documentation/maps-static/intro",
       "added_by": "@abeisgreat"
+    },
+    {
+      "title": "Get info on Star Wars characters, planets and more!",
+      "site": "swapi.tech",
+      "description": "An open source API for all things Star Wars",
+      "link": "https://www.swapi.tech/",
+      "added_by": "@semperry"
     }
   ]
 }
